@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+TP1/INF8111_2020_fall_tp1_dataset.zip
+
+TP1/dataset
