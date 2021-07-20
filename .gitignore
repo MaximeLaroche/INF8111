@@ -132,3 +132,14 @@ TP1/INF8111_2020_fall_tp1_dataset.zip
 
 TP1/dataset
 *.mp4
+*/settings.json
+*.csv
+*.gsheet
+*.pdf
+*.pem
+*.ppk
+*.mkv
+
+
+
+*.vscode*
